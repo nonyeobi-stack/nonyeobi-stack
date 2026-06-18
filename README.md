@@ -7,7 +7,8 @@ I’m an aspiring Data Analyst with hands-on experience in SQL, Excel, and Table
 - Excel (Data Cleaning, Pivot Tables, Basic Analysis)
 - Tableau (Interactive Dashboards)
 - Data Cleaning & Visualization
-- Basic Statistics
+- Statistics
+- Basic Python
 
 ## 📊 Featured Projects
 
